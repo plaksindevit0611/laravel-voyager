@@ -1,0 +1,32 @@
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+thead th, tfoot th {
+    font-family: 'Rock Salt', cursive;
+    border: 1px solid;
+}
+
+th {
+    letter-spacing: 2px;
+    border: 1px solid;
+}
+
+td {
+    letter-spacing: 1px;
+    border: 1px solid;
+}
+
+tbody td {
+    text-align: center;
+    border: 1px solid;
+}
+
+tfoot th {
+    text-align: right;
+}
+
+.wrapper-table {
+    display: flex;
+    justify-content: center;
+}
